@@ -1,2 +1,3 @@
+I added a new first line to my second file
 here is my second file.
 it has some diffent text.
